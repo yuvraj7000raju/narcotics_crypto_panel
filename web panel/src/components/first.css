@@ -1,0 +1,13 @@
+.ll{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.lls{
+max-width: 500px;
+}
+span{
+    padding: 10px;
+}

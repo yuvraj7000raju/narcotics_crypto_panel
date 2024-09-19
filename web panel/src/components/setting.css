@@ -1,0 +1,42 @@
+.st{
+    display: grid;
+    grid-template-columns: auto auto ;
+    height: 70vh;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.ff{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F7F7F7;
+    padding: 40px;
+}
+
+.btnn {
+    width: 200px;
+    height: 70px;
+    background-color: #7d90a4; /* Button color */
+    color: white; /* Text color */
+    padding: 10px 20px; /* Padding */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Cursor changes on hover */
+    font-size: 16px; /* Font size */
+    text-decoration: none; /* Remove underline for links */
+    display: inline-block; /* Ensure proper button behavior */
+    transition: background-color 0.3s ease; /* Smooth color change */
+}
+
+/* Hover effect */
+.btnn:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Active button state */
+.btnn:active {
+    background-color: #003d80; /* Even darker blue on click */
+}

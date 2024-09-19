@@ -1,0 +1,12 @@
+.n1{
+    background-color: #F7F7F7;
+    padding: 10px;
+}
+.nav-img{
+    height: 60px;
+}
+.nnm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
