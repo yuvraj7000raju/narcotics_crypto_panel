@@ -22,7 +22,7 @@ export default function Report(){
 <div className="crd">
 <div class="card-body">
     <h5 class="card-title">ID - 443</h5>
-    <h6 class="card-subtitle mb-2 text-body-secondary">high priority</h6>
+    <h6 class="card-subtitle mb-2 text-body-secondary">mid priority</h6>
     <p class="card-text">Tracked suspect's crypto payments to darknet markets; evidence suggests involvement in illicit drug trade activities.</p>
     <a href="#" class="card-link">open report</a>
     
@@ -30,54 +30,54 @@ export default function Report(){
 </div>
 <div className="crd">
 <div class="card-body">
-    <h5 class="card-title">ID - 443</h5>
+    <h5 class="card-title">ID - 182</h5>
     <h6 class="card-subtitle mb-2 text-body-secondary">high priority</h6>
-    <p class="card-text">Tracked suspect's crypto payments to darknet markets; evidence suggests involvement in illicit drug trade activities.</p>
+    <p class="card-text">Connected suspect's crypto funds flow to known drug distribution rings via blockchain tracing techniques.</p>
     <a href="#" class="card-link">open report</a>
     
   </div>
 </div>
 <div className="crd">
 <div class="card-body">
-    <h5 class="card-title">ID - 443</h5>
-    <h6 class="card-subtitle mb-2 text-body-secondary">high priority</h6>
-    <p class="card-text">Tracked suspect's crypto payments to darknet markets; evidence suggests involvement in illicit drug trade activities.</p>
+    <h5 class="card-title">ID - 229</h5>
+    <h6 class="card-subtitle mb-2 text-body-secondary">low priority</h6>
+    <p class="card-text">Cryptocurrency wallet activity traced to darknet marketplaces, indicating involvement in drug trafficking operations.</p>
     <a href="#" class="card-link">open report</a>
     
   </div>
 </div>
 <div className="crd">
 <div class="card-body">
-    <h5 class="card-title">ID - 443</h5>
-    <h6 class="card-subtitle mb-2 text-body-secondary">high priority</h6>
-    <p class="card-text">Tracked suspect's crypto payments to darknet markets; evidence suggests involvement in illicit drug trade activities.</p>
+    <h5 class="card-title">ID - 186</h5>
+    <h6 class="card-subtitle mb-2 text-body-secondary">low priority</h6>
+    <p class="card-text">Detected multiple crypto transactions linked to drug sales; suspect uses obfuscation techniques to mask illicit transfers.</p>
     <a href="#" class="card-link">open report</a>
     
   </div>
 </div>
 <div className="crd">
 <div class="card-body">
-    <h5 class="card-title">ID - 443</h5>
-    <h6 class="card-subtitle mb-2 text-body-secondary">high priority</h6>
-    <p class="card-text">Tracked suspect's crypto payments to darknet markets; evidence suggests involvement in illicit drug trade activities.</p>
+    <h5 class="card-title">ID - 143</h5>
+    <h6 class="card-subtitle mb-2 text-body-secondary">low priority</h6>
+    <p class="card-text">Analyzed blockchain data revealing dealer's transaction history, linking addresses to known drug distribution networks.</p>
     <a href="#" class="card-link">open report</a>
     
   </div>
 </div>
 <div className="crd">
 <div class="card-body">
-    <h5 class="card-title">ID - 443</h5>
+    <h5 class="card-title">ID - 243</h5>
     <h6 class="card-subtitle mb-2 text-body-secondary">high priority</h6>
-    <p class="card-text">Tracked suspect's crypto payments to darknet markets; evidence suggests involvement in illicit drug trade activities.</p>
+    <p class="card-text">Uncovered drug transactions via crypto wallets; frequent transfers correspond with known drug sales schedules.</p>
     <a href="#" class="card-link">open report</a>
     
   </div>
 </div>
 <div className="crd">
 <div class="card-body">
-    <h5 class="card-title">ID - 443</h5>
+    <h5 class="card-title">ID - 493</h5>
     <h6 class="card-subtitle mb-2 text-body-secondary">high priority</h6>
-    <p class="card-text">Tracked suspect's crypto payments to darknet markets; evidence suggests involvement in illicit drug trade activities.</p>
+    <p class="card-text">Identified drug dealer's transactions through cryptocurrency wallets, linking illegal activities via blockchain analysis and transaction patterns.</p>
     <a href="#" class="card-link">open report</a>
     
   </div>
@@ -108,36 +108,36 @@ export default function Report(){
 
 <div className="crd">
 <div class="card-body">
-    <h5 class="card-title">ID - 443</h5>
-    <h6 class="card-subtitle mb-2 text-body-secondary">high priority</h6>
-    <p class="card-text">Tracked suspect's crypto payments to darknet markets; evidence suggests involvement in illicit drug trade activities.</p>
+    <h5 class="card-title">ID - 333</h5>
+    <h6 class="card-subtitle mb-2 text-body-secondary">low priority</h6>
+    <p class="card-text">Linked suspect’s crypto exchanges to drug deals, using blockchain analytics to track illicit fund movements.</p>
     <a href="#" class="card-link">open report</a>
     
   </div>
 </div>
 <div className="crd">
 <div class="card-body">
-    <h5 class="card-title">ID - 443</h5>
-    <h6 class="card-subtitle mb-2 text-body-secondary">high priority</h6>
-    <p class="card-text">Tracked suspect's crypto payments to darknet markets; evidence suggests involvement in illicit drug trade activities.</p>
+    <h5 class="card-title">ID - 213</h5>
+    <h6 class="card-subtitle mb-2 text-body-secondary">mid priority</h6>
+    <p class="card-text">Suspect used multiple crypto wallets for drug sales; traced funds to darknet drug markets.</p>
     <a href="#" class="card-link">open report</a>
     
   </div>
 </div>
 <div className="crd">
 <div class="card-body">
-    <h5 class="card-title">ID - 443</h5>
+    <h5 class="card-title">ID - 446</h5>
     <h6 class="card-subtitle mb-2 text-body-secondary">high priority</h6>
-    <p class="card-text">Tracked suspect's crypto payments to darknet markets; evidence suggests involvement in illicit drug trade activities.</p>
+    <p class="card-text">Analyzed crypto transaction trails; suspect's patterns match known drug dealer activities on darknet platforms.</p>
     <a href="#" class="card-link">open report</a>
     
   </div>
 </div>
 <div className="crd">
 <div class="card-body">
-    <h5 class="card-title">ID - 443</h5>
-    <h6 class="card-subtitle mb-2 text-body-secondary">high priority</h6>
-    <p class="card-text">Tracked suspect's crypto payments to darknet markets; evidence suggests involvement in illicit drug trade activities.</p>
+    <h5 class="card-title">ID - 543</h5>
+    <h6 class="card-subtitle mb-2 text-body-secondary">mid priority</h6>
+    <p class="card-text">Uncovered drug transactions via crypto wallets; frequent transfers correspond with known drug sales schedules.</p>
     <a href="#" class="card-link">open report</a>
     
   </div>

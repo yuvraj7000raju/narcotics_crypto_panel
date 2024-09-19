@@ -15,15 +15,15 @@ export default function Suspect(){
             <div className="q1">
                 <span>Suspected Trans. ID's</span>
                   <ul class="list-group lm">
-                  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-                  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-                  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-                  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-                  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-                  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-                  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-                  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-                  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
+                  <li class="list-group-item gh">0x12...abcdef12345678<a href="#">see details</a></li>
+  <li class="list-group-item gh">0xab...567890abcdef12<a href="#">see details</a></li>
+  <li class="list-group-item gh">0x78...1234567890abcd<a href="#">see details</a></li>
+  <li class="list-group-item gh">0x45...def1234567890ab<a href="#">see details</a></li>
+  <li class="list-group-item gh">0xef...90abcdef123456<a href="#">see details</a></li>
+  <li class="list-group-item gh">0x90...34567890abcdef<a href="#">see details</a></li>
+  <li class="list-group-item gh">0x56...ef1234567890ab<a href="#">see details</a></li>
+  <li class="list-group-item gh">0xab...567890abcdef12<a href="#">see details</a></li>
+  <li class="list-group-item gh">0x78...1234567890abcd<a href="#">see details</a></li>
 </ul>
 <div class="btn-group nnm hj" role="group" aria-label="Basic radio toggle button group">
   {/* <input type="radio" class="btn-check" name="btnradio" id="btnradio1" autocomplete="off" checked /> */}
@@ -37,16 +37,16 @@ export default function Suspect(){
             </div>
             <div className="q1">
             <span> Suspected wallets</span>
-   <ul class="list-group lm">
-  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
-  <li class="list-group-item gh"><>An item</><a href="#">see details</a></li>
+<ul class="list-group lm">
+  <li class="list-group-item gh">0x12...abcdef12345678<a href="#">see details</a></li>
+  <li class="list-group-item gh">0xab...567890abcdef12<a href="#">see details</a></li>
+  <li class="list-group-item gh">0x78...1234567890abcd<a href="#">see details</a></li>
+  <li class="list-group-item gh">0x45...def1234567890ab<a href="#">see details</a></li>
+  <li class="list-group-item gh">0xef...90abcdef123456<a href="#">see details</a></li>
+  <li class="list-group-item gh">0x90...34567890abcdef<a href="#">see details</a></li>
+  <li class="list-group-item gh">0x56...ef1234567890ab<a href="#">see details</a></li>
+  <li class="list-group-item gh">0xab...567890abcdef12<a href="#">see details</a></li>
+  <li class="list-group-item gh">0x78...1234567890abcd<a href="#">see details</a></li>
 </ul>
 
 <div class="btn-group nnm hj" role="group" aria-label="Basic radio toggle button group">
