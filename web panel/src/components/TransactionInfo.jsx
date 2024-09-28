@@ -39,7 +39,7 @@ const TransactionInfo = () => {
         />
         <button type="submit" style={{ padding: '10px', width: '100%' }}>Get Transaction Info</button>
       </form>
-
+       Example Hash - 3194a00c5cf427a931b908453588b2ca3f661dafa3860b76a6362d08b3b08583
       {error && <p style={{ color: 'red' }}>{error}</p>}
 
       {transactionData && (
