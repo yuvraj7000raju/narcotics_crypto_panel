@@ -45,6 +45,11 @@ export default function Navv({ setCurrentPage }) {
           </button>
         </li>
         <li className="nav-item">
+          <button className="nav-link" onClick={() => setCurrentPage('transaction')}>
+          transaction Hash
+          </button>
+        </li>
+        <li className="nav-item">
           <button className="nav-link" onClick={() => setCurrentPage('reports')}>
             Reports
           </button>
@@ -59,6 +64,7 @@ export default function Navv({ setCurrentPage }) {
             Settings
           </button>
         </li>
+       
       </ul>
     </div>
   );

@@ -26,6 +26,7 @@ import Suspect from './suspect';
 import Setting from './setting';
 import Navv from './nav';
 import Footer from './footer';
+import TransactionInfo from './TransactionInfo';
 
 function Home() {
   // State to track the current page
@@ -42,6 +43,8 @@ function Home() {
         return <Suspect />;
       case 'settings':
         return <Setting />;
+      case 'transaction':
+        return <TransactionInfo />;
       default:
         return <First />;
     }
